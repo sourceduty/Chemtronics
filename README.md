@@ -17,3 +17,5 @@ Another core concept of chemtronics involves the development of molecular-scale 
 [Electrical Circuits](https://github.com/sourceduty/Electrical_Circuits)
 <br>
 [CharGen](https://github.com/sourceduty/CharGen)
+<br>
+[Chemical Computers](https://github.com/sourceduty/Chemical_Computers)
